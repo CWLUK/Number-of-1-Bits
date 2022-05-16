@@ -1,2 +1,1 @@
-# Number-of-1-Bits
-Bit Manipulation
+https://leetcode.com/problems/number-of-1-bits/
